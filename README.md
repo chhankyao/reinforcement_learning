@@ -1,6 +1,6 @@
 # Reinforcement Learning
 
-## Tabular methods
+## Tabular methods (OpenAI Gym: FrozenLake-v0)
 
 ### Model-based
 - Policy evalutation
@@ -9,8 +9,8 @@
 - Q-learning
 - Hill climbing
 
-## DQN
+## DQN (OpenAI Gym: CartPole-v0)
 
-## DDPG
+## DDPG (OpenAI Gym: Pendulum-v1, InvertedPendulum-v1, HalfCheetah-v1)
 
-## REINFORCE
+## REINFORCE (OpenAI Gym: CartPole-v0, InvertedPendulum-v1, HalfCheetah-v1)
